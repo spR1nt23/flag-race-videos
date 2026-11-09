@@ -7,7 +7,10 @@ Seeds come from the date, so re-running a date gives the same races (safe to res
 import glob, hashlib, json, os, subprocess, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SLOTS = ["3:00 PM", "8:00 PM", "11:30 PM"]          # Istanbul time (Studio, English UI)
+SLOTS = ["15:00", "20:00", "23:30"]                 # Istanbul time (Studio UI is Turkish, 24h)
+# YouTube Audio Library tracks with "YouTube Ses Kitaplığı Lisansı" (no attribution needed), added in the Studio editor
+STUDIO_TRACKS = ["Beat Your Competition", "Bike Rides", "Spring In My Step", "Bunny Hop", "Snake on the Beach",
+                 "If I Had a Chicken", "Statement", "Rain Fuse", "Blue Skies"]
 REGION_CYCLE = ["europe", "asia", "americas", "africa_me"]
 TITLES = [
     "Which Country Wins This Marble Race?",
@@ -50,6 +53,7 @@ def main(date):
                 f"Which country were you cheering for? Comment your country and it might be in the next race.\n\n"
                 f"#marblerace #countries #flags #countryballs #shorts ")
         meta.append({"file": name + ".mp4", "title": title, "description": desc, "time": SLOTS[i],
+                     "studio_track": STUDIO_TRACKS[(day_no * 3 + i) % len(STUDIO_TRACKS)],
                      "winner": res["winner"], "music": res["music"], "duration": res["duration"]})
     json.dump(meta, open(os.path.join(cont, "metadata.json"), "w"), indent=1, ensure_ascii=False)
     print(json.dumps(meta, indent=1, ensure_ascii=False))
