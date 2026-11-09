@@ -1,6 +1,6 @@
 # Flag Marble Race: daily production and upload
 
-Channel: **Flag Marble Race** · Channel ID: `CHANNEL_ID` (fill in after the channel is created)
+Channel: **Flag Marble Race** · Channel ID: `UCqfqnXk1Ipcd9lopex3m9Jg` · @FlagMarbleRaces
 Google account: **selinarica.2007** (same account as Secret Spawn and Mühürlü Tarih). Language: English. Time zone: Europe/Istanbul (Studio GMT+03:00).
 
 ## Every day: 3 Shorts (vertical, about 45–50 s)
@@ -31,7 +31,7 @@ python3 tools/make_day.py <DATE>      # e.g. 2026-11-11, about 1-2 minutes
 - `git add videos content && git commit -m "<DATE>" && git push origin HEAD:main`
 
 ## 3. Upload in Studio (built-in browser), one video at a time
-1. Open `https://studio.youtube.com/channel/CHANNEL_ID/videos/upload?d=ud`. If you see a 403, the browser is on another account: set the window to 1280, then Profile → Switch account → selinarica.2007 → Flag Marble Race. Studio should show "Your channel Flag Marble Race" on the left.
+1. Open `https://studio.youtube.com/channel/UCqfqnXk1Ipcd9lopex3m9Jg/videos/upload?d=ud`. If you see a 403, the browser is on another account: set the window to 1280, then Profile → Switch account → selinarica.2007 → Flag Marble Race. Studio should show "Your channel Flag Marble Race" on the left.
 2. Provide the file with JS:
 ```js
 const url='https://raw.githubusercontent.com/spR1nt23/flag-race-videos/main/videos/<DATE>/<FILE>.mp4';
