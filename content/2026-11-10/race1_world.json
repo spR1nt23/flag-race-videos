@@ -1,0 +1,66 @@
+{
+ "seed": 488997,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Iran",
+ "podium": [
+  "Iran",
+  "Peru",
+  "Honduras"
+ ],
+ "duration": 49.3,
+ "courses": [
+  "hourglass",
+  "spinners",
+  "zigzag",
+  "plinko",
+  "funnel"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "South Korea",
+    "Ethiopia",
+    "Pakistan",
+    "Lithuania",
+    "Bahrain",
+    "Mexico"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Egypt",
+    "Algeria",
+    "Sri Lanka",
+    "Estonia",
+    "USA",
+    "Thailand"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Sudan",
+    "Nigeria",
+    "Trinidad & Tobago",
+    "Germany",
+    "New Zealand",
+    "Turkey"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Senegal",
+    "Bosnia",
+    "UAE",
+    "Fiji",
+    "Austria",
+    "Uruguay"
+   ]
+  }
+ ]
+}

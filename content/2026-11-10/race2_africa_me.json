@@ -1,0 +1,66 @@
+{
+ "seed": 121463,
+ "theme": "africa_me",
+ "countries": 30,
+ "winner": "Ivory Coast",
+ "podium": [
+  "Ivory Coast",
+  "Syria",
+  "Cameroon"
+ ],
+ "duration": 45.6,
+ "courses": [
+  "funnel",
+  "cups",
+  "spinners",
+  "zigzag",
+  "hourglass"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Iraq",
+    "UAE",
+    "Yemen",
+    "Egypt",
+    "Nigeria",
+    "Kenya"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Tanzania",
+    "Turkey",
+    "Qatar",
+    "Angola",
+    "South Africa",
+    "Tunisia"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Senegal",
+    "Algeria",
+    "Israel",
+    "Uganda",
+    "Saudi Arabia",
+    "Mali"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Jordan",
+    "Oman",
+    "Ghana",
+    "Sudan",
+    "Ethiopia",
+    "Lebanon"
+   ]
+  }
+ ]
+}
