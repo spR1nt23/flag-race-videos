@@ -42,7 +42,8 @@ await new Promise(r=>setTimeout(r,5000));
 window.__mtFocus=(which)=>{const tb=[...document.querySelectorAll('ytcp-social-suggestions-textbox #textbox')].filter(e=>e.offsetParent); const el=which==='title'?tb[0]:tb[1]; el.focus(); const r=document.createRange(); r.selectNodeContents(el); const s=getSelection(); s.removeAllRanges(); s.addRange(r); return tb.length;};
 window.__mtFocus('title')
 ```
-3. `computer type` the title → JS `window.__mtFocus('desc')` → `computer type` the description (one line, ends with `#shorts `).
+3. If `__mtFocus` throws ("reading 'focus'"), the upload dialog was not ready yet: wait 3 s and call `window.__mtFocus('title')` again before typing. Otherwise the title stays as the file name (e.g. `race2 asia`); the step-4 check catches that, then re-focus the title and type again.
+   `computer type` the title → JS `window.__mtFocus('desc')` → `computer type` the description (one line, ends with `#shorts `).
 4. Check the boxes and schedule (this checks the title first; TIME `'15:00'`, DATE `'11 Kas 2026'` format: day, Turkish month abbreviation (Oca Şub Mar Nis May Haz Tem Ağu Eyl Eki Kas Ara), year):
 ```js
 const W=ms=>new Promise(r=>setTimeout(r,ms)); const norm=s=>s.replace(/\s+/g,' ').trim(); const TIME='15:00', DATE='11 Kas 2026', TITLE='<TITLE>';
@@ -91,6 +92,9 @@ await window.__addTrack('<TRACK>')
 ## 5. Check and report
 Content → Shorts: all 3 new videos must show **Planlandı**. If one is "Taslak" (draft), open it and redo step 3.4.
 Send the user a short summary: date, 3 titles, times, music used, and anything that failed.
+
+## Notes
+- Titles must not repeat the previous day's titles; if `make_day.py` picks the same title as yesterday, change it in metadata.json before uploading.
 
 ## Warnings
 - Do not press Escape during upload (it closes the upload window). Do not leave the page before the upload finishes.
