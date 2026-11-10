@@ -36,6 +36,10 @@ def main(date):
     music = sorted(glob.glob(os.path.join(ROOT, "music", "*.mp3")) + glob.glob(os.path.join(ROOT, "music", "*.m4a")))
     themes = ["world", REGION_CYCLE[day_no % len(REGION_CYCLE)], "world"]
     meta = []
+    import datetime
+    prev = (datetime.date.fromisoformat(date) - datetime.timedelta(days=1)).isoformat()
+    pm = os.path.join(ROOT, "content", prev, "metadata.json")
+    used = {x["title"] for x in json.load(open(pm))} if os.path.exists(pm) else set()
     for i, theme in enumerate(themes):
         seed = (h >> (i * 20)) % 1_000_000
         name = f"race{i + 1}_{theme}"
@@ -47,7 +51,14 @@ def main(date):
         if not (os.path.exists(out) and os.path.exists(js)):
             subprocess.run(cmd, check=True)
         res = json.load(open(js))
-        title = REGION_TITLES[theme] if theme != "world" else TITLES[(day_no * 2 + i) % len(TITLES)]
+        if theme != "world":
+            title = REGION_TITLES[theme]
+        else:
+            k = (day_no * 2 + i) % len(TITLES)
+            while TITLES[k] in used:
+                k = (k + 1) % len(TITLES)
+            title = TITLES[k]
+        used.add(title)
         n = res["countries"]
         desc = (f"{n} countries race through {len(res['courses'])} rounds of obstacles - only one survives! "
                 f"Which country were you cheering for? Comment your country and it might be in the next race.\n\n"
