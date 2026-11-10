@@ -1,0 +1,66 @@
+{
+ "seed": 77758,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Georgia",
+ "podium": [
+  "Georgia",
+  "Yemen",
+  "Sudan"
+ ],
+ "duration": 47.4,
+ "courses": [
+  "cups",
+  "hourglass",
+  "zigzag",
+  "funnel",
+  "plinko"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Austria",
+    "Paraguay",
+    "Pakistan",
+    "Fiji",
+    "South Africa",
+    "Colombia"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Brazil",
+    "Algeria",
+    "Uruguay",
+    "Slovakia",
+    "India",
+    "Qatar"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Angola",
+    "Serbia",
+    "Portugal",
+    "Sri Lanka",
+    "Vietnam",
+    "Ecuador"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Singapore",
+    "Japan",
+    "Morocco",
+    "Cameroon",
+    "Croatia",
+    "Bolivia"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "seed": 252754,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Sri Lanka",
+ "podium": [
+  "Sri Lanka",
+  "Panama",
+  "Senegal"
+ ],
+ "duration": 48.1,
+ "courses": [
+  "zigzag",
+  "spinners",
+  "cups",
+  "plinko",
+  "hourglass"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Trinidad & Tobago",
+    "Tunisia",
+    "Chile",
+    "Belgium",
+    "El Salvador",
+    "Ecuador"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Mali",
+    "Peru",
+    "Sweden",
+    "Ghana",
+    "Kenya",
+    "Austria"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "India",
+    "Kuwait",
+    "Iceland",
+    "Haiti",
+    "Singapore",
+    "Norway"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Ivory Coast",
+    "Australia",
+    "Tanzania",
+    "Israel",
+    "Uruguay",
+    "Estonia"
+   ]
+  }
+ ]
+}
