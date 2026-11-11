@@ -1,0 +1,66 @@
+{
+ "seed": 713203,
+ "theme": "europe",
+ "countries": 30,
+ "winner": "Austria",
+ "podium": [
+  "Austria",
+  "Serbia",
+  "Italy"
+ ],
+ "duration": 46.3,
+ "courses": [
+  "funnel",
+  "hourglass",
+  "cups",
+  "plinko",
+  "zigzag"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Azerbaijan",
+    "Portugal",
+    "United Kingdom",
+    "Turkey",
+    "Bulgaria",
+    "Albania"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Poland",
+    "Greece",
+    "Hungary",
+    "Romania",
+    "Belgium",
+    "Lithuania"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Croatia",
+    "Sweden",
+    "Norway",
+    "Germany",
+    "Denmark",
+    "Netherlands"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "France",
+    "Slovenia",
+    "Ukraine",
+    "Czechia",
+    "Spain",
+    "Latvia"
+   ]
+  }
+ ]
+}

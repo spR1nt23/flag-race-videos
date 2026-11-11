@@ -1,0 +1,66 @@
+{
+ "seed": 138608,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Bangladesh",
+ "podium": [
+  "Bangladesh",
+  "Ukraine",
+  "New Zealand"
+ ],
+ "duration": 48.3,
+ "courses": [
+  "zigzag",
+  "hourglass",
+  "plinko",
+  "cups",
+  "spinners"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Peru",
+    "Ireland",
+    "Armenia",
+    "Australia",
+    "Greece",
+    "Trinidad & Tobago"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Oman",
+    "Jamaica",
+    "Singapore",
+    "Switzerland",
+    "Iceland",
+    "Hungary"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Uganda",
+    "Sweden",
+    "Tunisia",
+    "Cameroon",
+    "Kazakhstan",
+    "Mongolia"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Uzbekistan",
+    "Costa Rica",
+    "Brazil",
+    "Bosnia",
+    "Canada",
+    "Guatemala"
+   ]
+  }
+ ]
+}

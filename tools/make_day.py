@@ -30,7 +30,8 @@ REGION_TITLES = {
 
 def main(date):
     h = int(hashlib.sha1(date.encode()).hexdigest(), 16)
-    day_no = h % 10007
+    import datetime as _dt
+    day_no = _dt.date.fromisoformat(date).toordinal()   # consecutive days rotate region, titles and tracks
     vids = os.path.join(ROOT, "videos", date); os.makedirs(vids, exist_ok=True)
     cont = os.path.join(ROOT, "content", date); os.makedirs(cont, exist_ok=True)
     music = sorted(glob.glob(os.path.join(ROOT, "music", "*.mp3")) + glob.glob(os.path.join(ROOT, "music", "*.m4a")))
