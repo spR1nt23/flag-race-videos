@@ -94,6 +94,8 @@ Content → Shorts: all 3 new videos must show **Planlandı**. If one is "Taslak
 Send the user a short summary: date, 3 titles, times, music used, and anything that failed.
 
 ## Notes
+- When the browser pane is hidden, `offsetParent` is null for every element: select the upload text boxes with `ytcp-uploads-dialog ytcp-social-suggestions-textbox #textbox` (no visibility filter) and the time items without an `offsetParent` filter.
+- In the editor, the audio button can be found with `find` "Ses ekle" (a stable ref) instead of coordinates.
 - Titles must not repeat the previous day's titles; if `make_day.py` picks the same title as yesterday, change it in metadata.json before uploading.
 
 ## Warnings
