@@ -1,0 +1,66 @@
+{
+ "seed": 856655,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Mexico",
+ "podium": [
+  "Mexico",
+  "Syria",
+  "Mongolia"
+ ],
+ "duration": 42.4,
+ "courses": [
+  "funnel",
+  "hourglass",
+  "cups",
+  "spinners",
+  "plinko"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Japan",
+    "Hungary",
+    "South Africa",
+    "Morocco",
+    "Indonesia",
+    "Germany"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Belgium",
+    "Singapore",
+    "Mali",
+    "Cuba",
+    "Slovenia",
+    "Tanzania"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Czechia",
+    "Uruguay",
+    "Angola",
+    "Serbia",
+    "Romania",
+    "Ireland"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Uganda",
+    "Iceland",
+    "Philippines",
+    "Saudi Arabia",
+    "Canada",
+    "Costa Rica"
+   ]
+  }
+ ]
+}

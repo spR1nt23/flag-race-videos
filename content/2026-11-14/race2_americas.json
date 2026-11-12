@@ -1,0 +1,59 @@
+{
+ "seed": 928902,
+ "theme": "americas",
+ "countries": 23,
+ "winner": "Paraguay",
+ "podium": [
+  "Paraguay",
+  "USA",
+  "Venezuela"
+ ],
+ "duration": 47.4,
+ "courses": [
+  "hourglass",
+  "spinners",
+  "cups",
+  "zigzag",
+  "plinko"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Ecuador",
+    "Honduras",
+    "Uruguay",
+    "Argentina",
+    "Panama"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Guatemala",
+    "Mexico",
+    "Brazil",
+    "Costa Rica"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Dominican Rep.",
+    "Trinidad & Tobago",
+    "Bolivia",
+    "Jamaica"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Haiti",
+    "Peru",
+    "Canada",
+    "Cuba"
+   ]
+  }
+ ]
+}

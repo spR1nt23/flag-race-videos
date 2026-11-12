@@ -1,0 +1,66 @@
+{
+ "seed": 674751,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Spain",
+ "podium": [
+  "Spain",
+  "Uzbekistan",
+  "Bosnia"
+ ],
+ "duration": 49.8,
+ "courses": [
+  "zigzag",
+  "hourglass",
+  "cups",
+  "plinko",
+  "spinners"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Thailand",
+    "Germany",
+    "Georgia",
+    "France",
+    "Latvia",
+    "Iraq"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Haiti",
+    "Angola",
+    "Sri Lanka",
+    "United Kingdom",
+    "New Zealand",
+    "Turkey"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Bangladesh",
+    "Costa Rica",
+    "Iran",
+    "Ireland",
+    "Cuba",
+    "Lithuania"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Chile",
+    "Philippines",
+    "Greece",
+    "Israel",
+    "Switzerland",
+    "Panama"
+   ]
+  }
+ ]
+}
