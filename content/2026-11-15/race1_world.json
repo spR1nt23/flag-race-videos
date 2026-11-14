@@ -1,0 +1,66 @@
+{
+ "seed": 563634,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Mali",
+ "podium": [
+  "Mali",
+  "Israel",
+  "Sweden"
+ ],
+ "duration": 47.2,
+ "courses": [
+  "zigzag",
+  "spinners",
+  "hourglass",
+  "funnel",
+  "cups"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Slovenia",
+    "Brazil",
+    "Colombia",
+    "Lithuania",
+    "Mongolia",
+    "Hungary"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Morocco",
+    "Argentina",
+    "Bahrain",
+    "Indonesia",
+    "Kenya",
+    "India"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Albania",
+    "Italy",
+    "Spain",
+    "Bolivia",
+    "Yemen",
+    "Netherlands"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Venezuela",
+    "United Kingdom",
+    "Sri Lanka",
+    "Panama",
+    "Jordan",
+    "South Korea"
+   ]
+  }
+ ]
+}

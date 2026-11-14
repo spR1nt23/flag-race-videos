@@ -1,0 +1,66 @@
+{
+ "seed": 532655,
+ "theme": "world",
+ "countries": 30,
+ "winner": "El Salvador",
+ "podium": [
+  "El Salvador",
+  "Jamaica",
+  "Egypt"
+ ],
+ "duration": 49.3,
+ "courses": [
+  "hourglass",
+  "zigzag",
+  "spinners",
+  "funnel",
+  "plinko"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "India",
+    "Ghana",
+    "Fiji",
+    "United Kingdom",
+    "Honduras",
+    "Bulgaria"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Dominican Rep.",
+    "Denmark",
+    "Portugal",
+    "Mongolia",
+    "Nigeria",
+    "Sweden"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Peru",
+    "Croatia",
+    "Albania",
+    "Bahrain",
+    "Sri Lanka",
+    "Iraq"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Iceland",
+    "Vietnam",
+    "Netherlands",
+    "Hungary",
+    "Iran",
+    "South Africa"
+   ]
+  }
+ ]
+}

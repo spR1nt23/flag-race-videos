@@ -1,0 +1,66 @@
+{
+ "seed": 790351,
+ "theme": "africa_me",
+ "countries": 30,
+ "winner": "Yemen",
+ "podium": [
+  "Yemen",
+  "Algeria",
+  "Egypt"
+ ],
+ "duration": 48.9,
+ "courses": [
+  "funnel",
+  "plinko",
+  "zigzag",
+  "spinners",
+  "hourglass"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Uganda",
+    "Tanzania",
+    "Tunisia",
+    "Israel",
+    "Sudan",
+    "Ethiopia"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Kuwait",
+    "Libya",
+    "Ivory Coast",
+    "Mali",
+    "Angola",
+    "Kenya"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Nigeria",
+    "Jordan",
+    "Iran",
+    "Oman",
+    "Turkey",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Morocco",
+    "Qatar",
+    "Syria",
+    "Senegal",
+    "South Africa",
+    "UAE"
+   ]
+  }
+ ]
+}
