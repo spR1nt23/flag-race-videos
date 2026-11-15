@@ -1,0 +1,66 @@
+{
+ "seed": 843700,
+ "theme": "europe",
+ "countries": 30,
+ "winner": "Sweden",
+ "podium": [
+  "Sweden",
+  "Iceland",
+  "Finland"
+ ],
+ "duration": 47.8,
+ "courses": [
+  "zigzag",
+  "plinko",
+  "cups",
+  "funnel",
+  "hourglass"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Croatia",
+    "United Kingdom",
+    "Switzerland",
+    "Greece",
+    "Lithuania",
+    "Netherlands"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Denmark",
+    "Italy",
+    "Bulgaria",
+    "Norway",
+    "Georgia",
+    "Serbia"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Slovakia",
+    "Spain",
+    "Belgium",
+    "Azerbaijan",
+    "Ukraine",
+    "France"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Hungary",
+    "Germany",
+    "Turkey",
+    "Poland",
+    "Czechia",
+    "Estonia"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "seed": 943078,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Fiji",
+ "podium": [
+  "Fiji",
+  "Azerbaijan",
+  "Libya"
+ ],
+ "duration": 41.1,
+ "courses": [
+  "hourglass",
+  "plinko",
+  "cups",
+  "funnel",
+  "spinners"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Chile",
+    "Costa Rica",
+    "Serbia",
+    "Mali",
+    "India",
+    "Singapore"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Poland",
+    "Syria",
+    "Indonesia",
+    "Bahrain",
+    "Germany",
+    "Colombia"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Iceland",
+    "Australia",
+    "Uzbekistan",
+    "Bosnia",
+    "Lithuania",
+    "Peru"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Uganda",
+    "United Kingdom",
+    "Brazil",
+    "Israel",
+    "Vietnam",
+    "Italy"
+   ]
+  }
+ ]
+}

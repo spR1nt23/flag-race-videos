@@ -1,0 +1,66 @@
+{
+ "seed": 405685,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Jordan",
+ "podium": [
+  "Jordan",
+  "Canada",
+  "Tanzania"
+ ],
+ "duration": 43.3,
+ "courses": [
+  "plinko",
+  "cups",
+  "hourglass",
+  "spinners",
+  "funnel"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Czechia",
+    "Cameroon",
+    "Netherlands",
+    "Vietnam",
+    "Lithuania",
+    "Bulgaria"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Saudi Arabia",
+    "Australia",
+    "Greece",
+    "Honduras",
+    "Serbia",
+    "United Kingdom"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Angola",
+    "Guatemala",
+    "Israel",
+    "Portugal",
+    "Syria",
+    "Ireland"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Fiji",
+    "Nigeria",
+    "Indonesia",
+    "Georgia",
+    "Chile",
+    "Singapore"
+   ]
+  }
+ ]
+}
