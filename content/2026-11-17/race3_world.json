@@ -1,0 +1,66 @@
+{
+ "seed": 614251,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Ethiopia",
+ "podium": [
+  "Ethiopia",
+  "Iceland",
+  "Serbia"
+ ],
+ "duration": 46.9,
+ "courses": [
+  "cups",
+  "zigzag",
+  "funnel",
+  "hourglass",
+  "plinko"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Fiji",
+    "Latvia",
+    "Czechia",
+    "Tunisia",
+    "Slovakia",
+    "Mexico"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Mali",
+    "Jordan",
+    "Philippines",
+    "Canada",
+    "Lithuania",
+    "Sri Lanka"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Thailand",
+    "Indonesia",
+    "Haiti",
+    "Cameroon",
+    "Lebanon",
+    "Poland"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Bosnia",
+    "Ivory Coast",
+    "Netherlands",
+    "Vietnam",
+    "Pakistan",
+    "Croatia"
+   ]
+  }
+ ]
+}

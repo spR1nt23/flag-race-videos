@@ -1,0 +1,65 @@
+{
+ "seed": 514809,
+ "theme": "asia",
+ "countries": 29,
+ "winner": "Singapore",
+ "podium": [
+  "Singapore",
+  "Thailand",
+  "UAE"
+ ],
+ "duration": 42.2,
+ "courses": [
+  "cups",
+  "funnel",
+  "spinners",
+  "hourglass",
+  "plinko"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Armenia",
+    "Kazakhstan",
+    "India",
+    "Turkey",
+    "Japan",
+    "Saudi Arabia"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Jordan",
+    "Malaysia",
+    "Nepal",
+    "Mongolia",
+    "Iraq",
+    "China"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "South Korea",
+    "Vietnam",
+    "Philippines",
+    "Israel",
+    "Azerbaijan",
+    "Georgia"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Bangladesh",
+    "Qatar",
+    "Sri Lanka",
+    "Indonesia",
+    "Uzbekistan"
+   ]
+  }
+ ]
+}
