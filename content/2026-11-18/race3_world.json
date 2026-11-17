@@ -1,0 +1,66 @@
+{
+ "seed": 731589,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Lithuania",
+ "podium": [
+  "Lithuania",
+  "Bulgaria",
+  "Tanzania"
+ ],
+ "duration": 46.0,
+ "courses": [
+  "plinko",
+  "funnel",
+  "cups",
+  "hourglass",
+  "zigzag"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Lebanon",
+    "Kenya",
+    "Slovenia",
+    "Israel",
+    "USA",
+    "Uzbekistan"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Cuba",
+    "Yemen",
+    "Nigeria",
+    "Bolivia",
+    "Panama",
+    "Trinidad & Tobago"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Germany",
+    "Switzerland",
+    "Guatemala",
+    "Sudan",
+    "Ireland",
+    "Ecuador"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Austria",
+    "Costa Rica",
+    "South Africa",
+    "Jamaica",
+    "Romania",
+    "South Korea"
+   ]
+  }
+ ]
+}

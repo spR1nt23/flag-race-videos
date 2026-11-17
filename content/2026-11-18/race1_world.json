@@ -1,0 +1,66 @@
+{
+ "seed": 889247,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Turkey",
+ "podium": [
+  "Turkey",
+  "Georgia",
+  "Guatemala"
+ ],
+ "duration": 47.7,
+ "courses": [
+  "zigzag",
+  "cups",
+  "funnel",
+  "plinko",
+  "hourglass"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "France",
+    "South Korea",
+    "Uzbekistan",
+    "Ecuador",
+    "Lebanon",
+    "China"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Peru",
+    "Belgium",
+    "Romania",
+    "Cuba",
+    "Venezuela",
+    "Qatar"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Israel",
+    "Senegal",
+    "Brazil",
+    "Iran",
+    "Netherlands",
+    "Italy"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Sri Lanka",
+    "Dominican Rep.",
+    "Canada",
+    "Albania",
+    "Kuwait",
+    "Indonesia"
+   ]
+  }
+ ]
+}

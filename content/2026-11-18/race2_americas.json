@@ -1,0 +1,59 @@
+{
+ "seed": 122447,
+ "theme": "americas",
+ "countries": 23,
+ "winner": "Chile",
+ "podium": [
+  "Chile",
+  "Honduras",
+  "Guatemala"
+ ],
+ "duration": 48.7,
+ "courses": [
+  "zigzag",
+  "spinners",
+  "hourglass",
+  "cups",
+  "plinko"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Uruguay",
+    "Dominican Rep.",
+    "USA",
+    "Bolivia",
+    "Argentina"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Colombia",
+    "El Salvador",
+    "Trinidad & Tobago",
+    "Jamaica"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Ecuador",
+    "Haiti",
+    "Cuba",
+    "Brazil"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Panama",
+    "Mexico",
+    "Canada",
+    "Costa Rica"
+   ]
+  }
+ ]
+}
