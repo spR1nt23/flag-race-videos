@@ -1,0 +1,66 @@
+{
+ "seed": 527551,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Pakistan",
+ "podium": [
+  "Pakistan",
+  "Albania",
+  "Latvia"
+ ],
+ "duration": 47.4,
+ "courses": [
+  "spinners",
+  "hourglass",
+  "zigzag",
+  "funnel",
+  "cups"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Trinidad & Tobago",
+    "El Salvador",
+    "Morocco",
+    "USA",
+    "Czechia",
+    "Bolivia"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Argentina",
+    "Romania",
+    "Finland",
+    "Azerbaijan",
+    "Singapore",
+    "Chile"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Brazil",
+    "Guatemala",
+    "Sri Lanka",
+    "Venezuela",
+    "Costa Rica",
+    "Hungary"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Egypt",
+    "Norway",
+    "Kuwait",
+    "Lebanon",
+    "Algeria",
+    "Turkey"
+   ]
+  }
+ ]
+}

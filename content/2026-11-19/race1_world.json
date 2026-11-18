@@ -1,0 +1,66 @@
+{
+ "seed": 275645,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Philippines",
+ "podium": [
+  "Philippines",
+  "Panama",
+  "Bangladesh"
+ ],
+ "duration": 48.2,
+ "courses": [
+  "zigzag",
+  "funnel",
+  "cups",
+  "hourglass",
+  "plinko"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Tanzania",
+    "Finland",
+    "Syria",
+    "Senegal",
+    "Spain",
+    "Oman"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Israel",
+    "Uganda",
+    "Morocco",
+    "Hungary",
+    "United Kingdom",
+    "Honduras"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Chile",
+    "Austria",
+    "Armenia",
+    "Lithuania",
+    "Turkey",
+    "Libya"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Bosnia",
+    "Romania",
+    "China",
+    "Kenya",
+    "USA",
+    "Italy"
+   ]
+  }
+ ]
+}

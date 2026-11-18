@@ -1,0 +1,66 @@
+{
+ "seed": 347051,
+ "theme": "africa_me",
+ "countries": 30,
+ "winner": "South Africa",
+ "podium": [
+  "South Africa",
+  "Nigeria",
+  "Ivory Coast"
+ ],
+ "duration": 42.6,
+ "courses": [
+  "cups",
+  "hourglass",
+  "funnel",
+  "spinners",
+  "plinko"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Kenya",
+    "Turkey",
+    "Angola",
+    "Morocco",
+    "Iran",
+    "Lebanon"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Senegal",
+    "Ghana",
+    "UAE",
+    "Libya",
+    "Mali",
+    "Iraq"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Uganda",
+    "Cameroon",
+    "Tunisia",
+    "Kuwait",
+    "Oman",
+    "Yemen"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Jordan",
+    "Syria",
+    "Sudan",
+    "Egypt",
+    "Israel",
+    "Tanzania"
+   ]
+  }
+ ]
+}
