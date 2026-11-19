@@ -1,0 +1,66 @@
+{
+ "seed": 690796,
+ "theme": "europe",
+ "countries": 30,
+ "winner": "Lithuania",
+ "podium": [
+  "Lithuania",
+  "Slovakia",
+  "Portugal"
+ ],
+ "duration": 47.7,
+ "courses": [
+  "funnel",
+  "hourglass",
+  "plinko",
+  "spinners",
+  "zigzag"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Poland",
+    "Turkey",
+    "Ukraine",
+    "Germany",
+    "Estonia",
+    "Sweden"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Serbia",
+    "Romania",
+    "Belgium",
+    "Ireland",
+    "Switzerland",
+    "Iceland"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Armenia",
+    "Latvia",
+    "Denmark",
+    "Czechia",
+    "Norway",
+    "Slovenia"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Croatia",
+    "Netherlands",
+    "Finland",
+    "Greece",
+    "Albania",
+    "Spain"
+   ]
+  }
+ ]
+}

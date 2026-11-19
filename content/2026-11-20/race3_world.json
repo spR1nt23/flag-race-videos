@@ -1,0 +1,66 @@
+{
+ "seed": 976291,
+ "theme": "world",
+ "countries": 30,
+ "winner": "UAE",
+ "podium": [
+  "UAE",
+  "Austria",
+  "USA"
+ ],
+ "duration": 47.5,
+ "courses": [
+  "plinko",
+  "zigzag",
+  "cups",
+  "hourglass",
+  "spinners"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Slovenia",
+    "Sweden",
+    "Panama",
+    "Cameroon",
+    "Sri Lanka",
+    "Bosnia"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Iceland",
+    "Serbia",
+    "Philippines",
+    "Portugal",
+    "Nigeria",
+    "Trinidad & Tobago"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "South Africa",
+    "Indonesia",
+    "Egypt",
+    "Kuwait",
+    "Cuba",
+    "Guatemala"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Czechia",
+    "Norway",
+    "Singapore",
+    "Bulgaria",
+    "Syria",
+    "Romania"
+   ]
+  }
+ ]
+}
