@@ -1,0 +1,65 @@
+{
+ "seed": 223033,
+ "theme": "asia",
+ "countries": 29,
+ "winner": "Thailand",
+ "podium": [
+  "Thailand",
+  "Azerbaijan",
+  "Philippines"
+ ],
+ "duration": 47.3,
+ "courses": [
+  "zigzag",
+  "funnel",
+  "hourglass",
+  "plinko",
+  "cups"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Saudi Arabia",
+    "Pakistan",
+    "Bangladesh",
+    "India",
+    "Georgia",
+    "Kazakhstan"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Iran",
+    "Qatar",
+    "Turkey",
+    "Israel",
+    "Mongolia",
+    "Vietnam"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Nepal",
+    "Singapore",
+    "Sri Lanka",
+    "UAE",
+    "Iraq",
+    "Indonesia"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Armenia",
+    "Lebanon",
+    "China",
+    "Malaysia",
+    "Japan"
+   ]
+  }
+ ]
+}

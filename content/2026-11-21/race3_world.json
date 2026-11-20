@@ -1,0 +1,66 @@
+{
+ "seed": 184660,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Qatar",
+ "podium": [
+  "Qatar",
+  "Jamaica",
+  "Spain"
+ ],
+ "duration": 49.1,
+ "courses": [
+  "cups",
+  "zigzag",
+  "spinners",
+  "hourglass",
+  "funnel"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Sri Lanka",
+    "El Salvador",
+    "United Kingdom",
+    "Guatemala",
+    "Turkey",
+    "Mongolia"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Czechia",
+    "Serbia",
+    "UAE",
+    "Vietnam",
+    "Singapore",
+    "Ivory Coast"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Mali",
+    "France",
+    "Malaysia",
+    "Albania",
+    "Nepal",
+    "Italy"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Syria",
+    "Angola",
+    "Uruguay",
+    "Peru",
+    "Armenia",
+    "South Africa"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "seed": 181441,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Finland",
+ "podium": [
+  "Finland",
+  "Pakistan",
+  "Mali"
+ ],
+ "duration": 48.4,
+ "courses": [
+  "cups",
+  "zigzag",
+  "funnel",
+  "plinko",
+  "hourglass"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Slovenia",
+    "Thailand",
+    "Sudan",
+    "Lebanon",
+    "Costa Rica",
+    "Ghana"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Uganda",
+    "Senegal",
+    "Uruguay",
+    "Jordan",
+    "Angola",
+    "Philippines"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Panama",
+    "Haiti",
+    "Paraguay",
+    "Ukraine",
+    "Singapore",
+    "Azerbaijan"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Denmark",
+    "Australia",
+    "Kenya",
+    "Kazakhstan",
+    "Libya",
+    "Cameroon"
+   ]
+  }
+ ]
+}
