@@ -1,0 +1,66 @@
+{
+ "seed": 432519,
+ "theme": "world",
+ "countries": 30,
+ "winner": "South Africa",
+ "podium": [
+  "South Africa",
+  "Norway",
+  "Poland"
+ ],
+ "duration": 47.9,
+ "courses": [
+  "cups",
+  "plinko",
+  "spinners",
+  "zigzag",
+  "hourglass"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "New Zealand",
+    "Argentina",
+    "Saudi Arabia",
+    "Yemen",
+    "Vietnam",
+    "Uruguay"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "India",
+    "Croatia",
+    "Egypt",
+    "Haiti",
+    "Estonia",
+    "Germany"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Lithuania",
+    "Sweden",
+    "Panama",
+    "Switzerland",
+    "Spain",
+    "Slovakia"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Latvia",
+    "Mexico",
+    "Costa Rica",
+    "Sudan",
+    "China",
+    "Bolivia"
+   ]
+  }
+ ]
+}

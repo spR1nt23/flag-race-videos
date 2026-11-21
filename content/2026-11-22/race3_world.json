@@ -1,0 +1,66 @@
+{
+ "seed": 287632,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Kuwait",
+ "podium": [
+  "Kuwait",
+  "Bahrain",
+  "Latvia"
+ ],
+ "duration": 46.2,
+ "courses": [
+  "zigzag",
+  "hourglass",
+  "funnel",
+  "cups",
+  "spinners"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Israel",
+    "Bangladesh",
+    "Uganda",
+    "United Kingdom",
+    "Egypt",
+    "France"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Ireland",
+    "El Salvador",
+    "Denmark",
+    "Senegal",
+    "Japan",
+    "China"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Indonesia",
+    "Paraguay",
+    "Tanzania",
+    "Sweden",
+    "USA",
+    "Lithuania"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Morocco",
+    "South Africa",
+    "Hungary",
+    "Guatemala",
+    "Mali",
+    "Spain"
+   ]
+  }
+ ]
+}
