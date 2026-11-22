@@ -1,0 +1,66 @@
+{
+ "seed": 103573,
+ "theme": "africa_me",
+ "countries": 30,
+ "winner": "Oman",
+ "podium": [
+  "Oman",
+  "Morocco",
+  "Lebanon"
+ ],
+ "duration": 45.5,
+ "courses": [
+  "cups",
+  "spinners",
+  "funnel",
+  "plinko",
+  "zigzag"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Ethiopia",
+    "Cameroon",
+    "Mali",
+    "Iran",
+    "South Africa",
+    "Bahrain"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Uganda",
+    "Kenya",
+    "Tunisia",
+    "Israel",
+    "Libya",
+    "Kuwait"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Jordan",
+    "Saudi Arabia",
+    "Sudan",
+    "Angola",
+    "Nigeria",
+    "Qatar"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Yemen",
+    "Turkey",
+    "Ghana",
+    "UAE",
+    "Tanzania",
+    "Egypt"
+   ]
+  }
+ ]
+}

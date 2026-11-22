@@ -1,0 +1,66 @@
+{
+ "seed": 625229,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Albania",
+ "podium": [
+  "Albania",
+  "Honduras",
+  "Trinidad & Tobago"
+ ],
+ "duration": 48.7,
+ "courses": [
+  "zigzag",
+  "funnel",
+  "plinko",
+  "spinners",
+  "hourglass"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Nigeria",
+    "Bolivia",
+    "Guatemala",
+    "Italy",
+    "Ecuador",
+    "Slovakia"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Mexico",
+    "Mali",
+    "Bangladesh",
+    "Yemen",
+    "Panama",
+    "Jamaica"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Peru",
+    "Croatia",
+    "Colombia",
+    "Angola",
+    "Costa Rica",
+    "Syria"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Uruguay",
+    "Algeria",
+    "Vietnam",
+    "Kenya",
+    "New Zealand",
+    "Indonesia"
+   ]
+  }
+ ]
+}

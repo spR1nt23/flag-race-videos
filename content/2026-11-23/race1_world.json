@@ -1,0 +1,66 @@
+{
+ "seed": 625133,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Finland",
+ "podium": [
+  "Finland",
+  "Greece",
+  "Lebanon"
+ ],
+ "duration": 48.2,
+ "courses": [
+  "spinners",
+  "cups",
+  "zigzag",
+  "plinko",
+  "funnel"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Qatar",
+    "Ecuador",
+    "Mongolia",
+    "Costa Rica",
+    "Japan",
+    "Azerbaijan"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Norway",
+    "Jamaica",
+    "Romania",
+    "Ivory Coast",
+    "Angola",
+    "India"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Yemen",
+    "Nigeria",
+    "Iraq",
+    "China",
+    "UAE",
+    "Israel"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Algeria",
+    "Brazil",
+    "Argentina",
+    "Uganda",
+    "Sweden",
+    "Latvia"
+   ]
+  }
+ ]
+}
