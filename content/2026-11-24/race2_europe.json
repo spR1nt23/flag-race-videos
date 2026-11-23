@@ -1,0 +1,66 @@
+{
+ "seed": 772378,
+ "theme": "europe",
+ "countries": 30,
+ "winner": "Norway",
+ "podium": [
+  "Norway",
+  "Slovenia",
+  "Romania"
+ ],
+ "duration": 48.4,
+ "courses": [
+  "plinko",
+  "zigzag",
+  "hourglass",
+  "funnel",
+  "cups"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Bosnia",
+    "Slovakia",
+    "Azerbaijan",
+    "Hungary",
+    "Sweden",
+    "Albania"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Lithuania",
+    "Armenia",
+    "Spain",
+    "Italy",
+    "Iceland",
+    "Bulgaria"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "United Kingdom",
+    "Greece",
+    "Georgia",
+    "Netherlands",
+    "Germany",
+    "Turkey"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Czechia",
+    "Austria",
+    "Ireland",
+    "Poland",
+    "Portugal",
+    "Serbia"
+   ]
+  }
+ ]
+}

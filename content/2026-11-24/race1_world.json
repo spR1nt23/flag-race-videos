@@ -1,0 +1,66 @@
+{
+ "seed": 773077,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Iceland",
+ "podium": [
+  "Iceland",
+  "Serbia",
+  "Estonia"
+ ],
+ "duration": 46.5,
+ "courses": [
+  "spinners",
+  "cups",
+  "funnel",
+  "plinko",
+  "zigzag"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Iran",
+    "Senegal",
+    "Georgia",
+    "Ghana",
+    "Bahrain",
+    "Turkey"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "South Korea",
+    "Mongolia",
+    "Japan",
+    "Uzbekistan",
+    "Vietnam",
+    "Bosnia"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Denmark",
+    "Greece",
+    "Netherlands",
+    "Tunisia",
+    "Venezuela",
+    "Finland"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Nepal",
+    "Jordan",
+    "Bolivia",
+    "Bangladesh",
+    "Peru",
+    "Romania"
+   ]
+  }
+ ]
+}

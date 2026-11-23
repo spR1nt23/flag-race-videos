@@ -1,0 +1,66 @@
+{
+ "seed": 40949,
+ "theme": "world",
+ "countries": 30,
+ "winner": "United Kingdom",
+ "podium": [
+  "United Kingdom",
+  "Ethiopia",
+  "New Zealand"
+ ],
+ "duration": 46.1,
+ "courses": [
+  "funnel",
+  "spinners",
+  "hourglass",
+  "cups",
+  "zigzag"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Ukraine",
+    "Estonia",
+    "Canada",
+    "South Africa",
+    "Sri Lanka",
+    "Brazil"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "China",
+    "Switzerland",
+    "Norway",
+    "Latvia",
+    "Oman",
+    "Portugal"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Uruguay",
+    "Greece",
+    "Libya",
+    "South Korea",
+    "Poland",
+    "Syria"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Trinidad & Tobago",
+    "Iran",
+    "Austria",
+    "Venezuela",
+    "Yemen",
+    "Saudi Arabia"
+   ]
+  }
+ ]
+}
