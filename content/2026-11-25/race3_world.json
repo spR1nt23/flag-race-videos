@@ -1,0 +1,66 @@
+{
+ "seed": 142584,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Cuba",
+ "podium": [
+  "Cuba",
+  "South Korea",
+  "Latvia"
+ ],
+ "duration": 42.7,
+ "courses": [
+  "spinners",
+  "plinko",
+  "hourglass",
+  "cups",
+  "funnel"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Sweden",
+    "Saudi Arabia",
+    "Oman",
+    "Morocco",
+    "Norway",
+    "Yemen"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Malaysia",
+    "Singapore",
+    "Israel",
+    "Azerbaijan",
+    "Qatar",
+    "Angola"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Peru",
+    "Fiji",
+    "Switzerland",
+    "Iraq",
+    "Canada",
+    "Uganda"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Libya",
+    "Armenia",
+    "Argentina",
+    "Netherlands",
+    "Chile",
+    "Dominican Rep."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "seed": 345219,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Bosnia",
+ "podium": [
+  "Bosnia",
+  "Turkey",
+  "Kazakhstan"
+ ],
+ "duration": 46.5,
+ "courses": [
+  "spinners",
+  "cups",
+  "funnel",
+  "hourglass",
+  "zigzag"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Senegal",
+    "Tunisia",
+    "South Korea",
+    "Singapore",
+    "Dominican Rep.",
+    "Canada"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Austria",
+    "China",
+    "Israel",
+    "Lithuania",
+    "Indonesia",
+    "Kenya"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Qatar",
+    "Ecuador",
+    "India",
+    "Ghana",
+    "Trinidad & Tobago",
+    "Armenia"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Saudi Arabia",
+    "Philippines",
+    "Venezuela",
+    "Costa Rica",
+    "Slovakia",
+    "Ireland"
+   ]
+  }
+ ]
+}
