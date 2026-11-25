@@ -1,0 +1,66 @@
+{
+ "seed": 291802,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Ethiopia",
+ "podium": [
+  "Ethiopia",
+  "Norway",
+  "Algeria"
+ ],
+ "duration": 48.3,
+ "courses": [
+  "zigzag",
+  "spinners",
+  "plinko",
+  "funnel",
+  "hourglass"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Mongolia",
+    "Switzerland",
+    "Georgia",
+    "Haiti",
+    "Latvia",
+    "Hungary"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Sudan",
+    "Guatemala",
+    "Czechia",
+    "Denmark",
+    "Armenia",
+    "Nigeria"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Qatar",
+    "Kazakhstan",
+    "Greece",
+    "Bosnia",
+    "Romania",
+    "Peru"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Australia",
+    "France",
+    "Turkey",
+    "Venezuela",
+    "Ukraine",
+    "Portugal"
+   ]
+  }
+ ]
+}

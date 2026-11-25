@@ -1,0 +1,59 @@
+{
+ "seed": 712712,
+ "theme": "americas",
+ "countries": 23,
+ "winner": "Cuba",
+ "podium": [
+  "Cuba",
+  "El Salvador",
+  "Peru"
+ ],
+ "duration": 48.2,
+ "courses": [
+  "plinko",
+  "zigzag",
+  "cups",
+  "hourglass",
+  "funnel"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Brazil",
+    "Chile",
+    "Costa Rica",
+    "Panama",
+    "Mexico"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Haiti",
+    "Bolivia",
+    "Canada",
+    "Honduras"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Argentina",
+    "Ecuador",
+    "Paraguay",
+    "Venezuela"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "USA",
+    "Guatemala",
+    "Jamaica",
+    "Trinidad & Tobago"
+   ]
+  }
+ ]
+}
