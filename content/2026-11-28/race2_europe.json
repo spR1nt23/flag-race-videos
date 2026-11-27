@@ -1,0 +1,66 @@
+{
+ "seed": 362708,
+ "theme": "europe",
+ "countries": 30,
+ "winner": "Croatia",
+ "podium": [
+  "Croatia",
+  "Latvia",
+  "Iceland"
+ ],
+ "duration": 41.1,
+ "courses": [
+  "spinners",
+  "funnel",
+  "cups",
+  "plinko",
+  "hourglass"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Netherlands",
+    "Germany",
+    "Ireland",
+    "Slovakia",
+    "France",
+    "Czechia"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "United Kingdom",
+    "Poland",
+    "Italy",
+    "Estonia",
+    "Bulgaria",
+    "Hungary"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Albania",
+    "Serbia",
+    "Greece",
+    "Spain",
+    "Turkey",
+    "Austria"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Finland",
+    "Slovenia",
+    "Romania",
+    "Armenia",
+    "Ukraine",
+    "Belgium"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "seed": 792826,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Ghana",
+ "podium": [
+  "Ghana",
+  "Pakistan",
+  "Kenya"
+ ],
+ "duration": 49.8,
+ "courses": [
+  "zigzag",
+  "spinners",
+  "plinko",
+  "funnel",
+  "hourglass"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Greece",
+    "Trinidad & Tobago",
+    "Costa Rica",
+    "Bosnia",
+    "Australia",
+    "Ivory Coast"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Venezuela",
+    "Indonesia",
+    "Honduras",
+    "Finland",
+    "Croatia",
+    "Serbia"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Jordan",
+    "Panama",
+    "Uzbekistan",
+    "USA",
+    "Angola",
+    "Ecuador"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Yemen",
+    "Bahrain",
+    "Austria",
+    "El Salvador",
+    "Bulgaria",
+    "Norway"
+   ]
+  }
+ ]
+}
