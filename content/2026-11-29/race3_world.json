@@ -1,0 +1,66 @@
+{
+ "seed": 494560,
+ "theme": "world",
+ "countries": 30,
+ "winner": "Ukraine",
+ "podium": [
+  "Ukraine",
+  "Finland",
+  "Romania"
+ ],
+ "duration": 47.5,
+ "courses": [
+  "plinko",
+  "spinners",
+  "zigzag",
+  "hourglass",
+  "cups"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Honduras",
+    "Cameroon",
+    "Uzbekistan",
+    "Georgia",
+    "Paraguay",
+    "Japan"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Slovakia",
+    "Haiti",
+    "Libya",
+    "Egypt",
+    "United Kingdom",
+    "Mali"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Israel",
+    "Croatia",
+    "Azerbaijan",
+    "Guatemala",
+    "Iran",
+    "Cuba"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Portugal",
+    "Trinidad & Tobago",
+    "Serbia",
+    "Argentina",
+    "Greece",
+    "Chile"
+   ]
+  }
+ ]
+}

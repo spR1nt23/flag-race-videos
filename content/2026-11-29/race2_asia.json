@@ -1,0 +1,65 @@
+{
+ "seed": 456252,
+ "theme": "asia",
+ "countries": 29,
+ "winner": "Qatar",
+ "podium": [
+  "Qatar",
+  "Indonesia",
+  "Malaysia"
+ ],
+ "duration": 45.8,
+ "courses": [
+  "spinners",
+  "cups",
+  "funnel",
+  "hourglass",
+  "zigzag"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Georgia",
+    "Philippines",
+    "Jordan",
+    "Lebanon",
+    "Saudi Arabia",
+    "Turkey"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "Japan",
+    "Kazakhstan",
+    "Sri Lanka",
+    "Mongolia",
+    "UAE",
+    "Iran"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Thailand",
+    "Azerbaijan",
+    "Israel",
+    "Singapore",
+    "South Korea",
+    "Armenia"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Pakistan",
+    "Nepal",
+    "India",
+    "Bangladesh",
+    "Vietnam"
+   ]
+  }
+ ]
+}

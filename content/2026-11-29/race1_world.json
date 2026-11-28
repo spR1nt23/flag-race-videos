@@ -1,0 +1,66 @@
+{
+ "seed": 830343,
+ "theme": "world",
+ "countries": 30,
+ "winner": "UAE",
+ "podium": [
+  "UAE",
+  "Lebanon",
+  "USA"
+ ],
+ "duration": 48.3,
+ "courses": [
+  "cups",
+  "funnel",
+  "zigzag",
+  "plinko",
+  "hourglass"
+ ],
+ "music": null,
+ "rounds": [
+  {
+   "round": 1,
+   "eliminated": [
+    "Costa Rica",
+    "Ethiopia",
+    "Dominican Rep.",
+    "Syria",
+    "Latvia",
+    "Ivory Coast"
+   ]
+  },
+  {
+   "round": 2,
+   "eliminated": [
+    "United Kingdom",
+    "Cameroon",
+    "Algeria",
+    "Jordan",
+    "Sweden",
+    "Senegal"
+   ]
+  },
+  {
+   "round": 3,
+   "eliminated": [
+    "Romania",
+    "Czechia",
+    "Poland",
+    "Egypt",
+    "Portugal",
+    "Mongolia"
+   ]
+  },
+  {
+   "round": 4,
+   "eliminated": [
+    "Kenya",
+    "Indonesia",
+    "South Korea",
+    "Georgia",
+    "Honduras",
+    "Austria"
+   ]
+  }
+ ]
+}
